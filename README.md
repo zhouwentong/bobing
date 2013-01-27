@@ -27,7 +27,7 @@
 .slider .f .activeSlide{background:#FCFF00;}
 </pre>
 
-把一些常用的元件名字修改了下，跟role属性对应一起（http://www.zhouwenbin.com/archives/1900），更好记忆，dreamweaver对role的提示也比较好，所以一直喜欢用dw。
+把一些常用的元件名字修改了下，跟role属性对应一起（<a href="http://www.zhouwenbin.com/archives/1900">http://www.zhouwenbin.com/archives/1900</a>），更好记忆，dreamweaver对role的提示也比较好，所以一直喜欢用dw。
 <h3>2、图标</h3>
 <pre class="brush:css">
 /*-------------------图标--------------------------*/
@@ -87,4 +87,4 @@ i{display:inline-block; margin-right:5px; font-style:normal;}
 
 内页使用pg区分，这里主要用来设置内页的公用头部和侧边栏模块样式调整，还有不同页面导航的选中状态，这样头部的结构就能公用了。
 <h2>三、结语</h2>
-代码放github了，页面地址（http://wenbin5243.github.com/bobing/），代码地址（https://github.com/wenbin5243/bobing）
+代码放github了，页面地址（<a href="http://wenbin5243.github.com/bobing/">http://wenbin5243.github.com/bobing/</a>），代码地址（<a href="https://github.com/wenbin5243/bobing">https://github.com/wenbin5243/bobing</a>）
