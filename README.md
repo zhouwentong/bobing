@@ -1,4 +1,4 @@
-<h2>一、前言</h2>
+﻿<h2>一、前言</h2>
 不知道你有没有遇到这样的情况，做首页的时候，样式公用的很好，随着页面越来越多，公用样式越来越难提取，到最后需求一改，代码越来越乱，越来越复杂。比如本来两个页面是分开的，后来要合一起，蛋疼了，很多样式冲突，结构和样式都得改。再比如侧边栏本来是公用模块1，后面改成模块2，样式得重新提取一遍。所以一开始最好是把所有样式写在一个文件里面，布局和模块严格的区分，命名不重复，也就没有了样式冲突，不用再纠结如何公用代码。<!--more-->
 <h2>二、正文</h2>
 这次博饼的网站非常赶，10个页面2天完成，只能设计一个做一个。前期不能很好的构思，所以一开始就要为以后的修改做准备，尽量不修改结构，减少和程序沟通的成本。
@@ -87,4 +87,4 @@ i{display:inline-block; margin-right:5px; font-style:normal;}
 
 内页使用pg区分，这里主要用来设置内页的公用头部和侧边栏模块样式调整，还有不同页面导航的选中状态，这样头部的结构就能公用了。
 <h2>三、结语</h2>
-代码放github了，页面地址（<a href="http://wenbin5243.github.com/bobing/">http://wenbin5243.github.com/bobing/</a>），代码地址（<a href="https://github.com/wenbin5243/bobing">https://github.com/wenbin5243/bobing</a>）
+代码放github了，页面地址（<a href="http://wenbin5243.github.com/bobing/">http://wenbin5243.github.com/bobing/</a>），代码地址（<a href="https://github.com/wenbin5243/bobing">https://github.com/wenbin5243/bobing</a>） 
